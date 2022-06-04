@@ -1,5 +1,5 @@
 class Jumper:
-    """Makes our jumper guy!"""
+    """Makes a jumper with a parachute."""
 
     def __init__(self):
         self._lines_to_draw = [
