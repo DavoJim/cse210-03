@@ -25,7 +25,7 @@ root                    (project root folder)
     +--director.py
     +--jumper.py
     +--terminal.py
-    +--word.py.py
+    +--word.py
     +--word_list.csv
   +-- __main__.py       (program entry point)
 +-- README.md           (general info)
